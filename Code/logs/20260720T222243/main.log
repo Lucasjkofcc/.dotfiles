@@ -1,0 +1,9 @@
+2026-07-20 22:22:43.668 [info] StorageMainService: creating application shared storage
+2026-07-20 22:22:43.753 [info] [shared storage] Creating shared storage database at '/home/lucas/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-07-20 22:22:43.753 [info] [shared storage] Initializing fallback application storage (path: /home/lucas/.config/Code/User/globalStorage/state.vscdb)
+2026-07-20 22:22:43.770 [info] [shared storage] Fallback application storage initialized with 93 items
+2026-07-20 22:22:43.772 [info] update#setState disabled
+2026-07-20 22:22:43.772 [info] update#ctor - updates are disabled as there is no update URL
+2026-07-20 22:23:47.042 [info] Extension host with pid 95258 exited with code: 5, signal: unknown.
+2026-07-20 22:23:47.043 [error] [UtilityProcess id: 1, type: extensionHost, pid: 95258]: crashed with code 5 and reason 'crashed'
+2026-07-20 22:23:49.826 [info] Extension host with pid 104661 exited with code: 0, signal: unknown.

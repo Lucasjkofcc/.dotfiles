@@ -1,0 +1,7 @@
+2026-07-15 15:26:26.777 [info] Started local extension host with pid 1987040.
+2026-07-15 15:26:26.806 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lucas/.vscode/extensions
+2026-07-15 15:26:26.947 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/lucas/.vscode/extensions
+2026-07-15 15:26:27.565 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-07-15 15:26:27.723 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-07-15 15:26:29.811 [info] [perf] Render performance baseline is 21ms
+2026-07-15 15:26:32.565 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

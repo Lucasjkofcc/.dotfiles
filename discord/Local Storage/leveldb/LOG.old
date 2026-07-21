@@ -1,0 +1,56 @@
+2026/07/17-15:44:45.699 f49 Creating DB /home/lucas/.config/discord/Local Storage/leveldb since it was missing.
+2026/07/17-15:44:45.715 f49 Reusing MANIFEST /home/lucas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/07/17-15:57:03.932 f4a Level-0 table #5: started
+2026/07/17-15:57:04.006 f4a Level-0 table #5: 4809478 bytes OK
+2026/07/17-15:57:04.010 f4a Delete type=0 #3
+2026/07/17-15:57:49.894 f4a Level-0 table #7: started
+2026/07/17-15:57:49.896 f4a Level-0 table #7: 35898 bytes OK
+2026/07/17-15:57:49.898 f4a Delete type=0 #4
+2026/07/17-16:04:59.173 f4a Level-0 table #9: started
+2026/07/17-16:04:59.177 f4a Level-0 table #9: 33829 bytes OK
+2026/07/17-16:04:59.179 f4a Delete type=0 #6
+2026/07/17-16:11:59.174 f4a Level-0 table #11: started
+2026/07/17-16:11:59.178 f4a Level-0 table #11: 29186 bytes OK
+2026/07/17-16:11:59.180 f4a Delete type=0 #8
+2026/07/17-16:19:59.173 f4a Level-0 table #13: started
+2026/07/17-16:19:59.177 f4a Level-0 table #13: 32134 bytes OK
+2026/07/17-16:19:59.179 f4a Delete type=0 #10
+2026/07/17-16:27:59.174 f4a Level-0 table #15: started
+2026/07/17-16:27:59.178 f4a Level-0 table #15: 32651 bytes OK
+2026/07/17-16:27:59.180 f4a Delete type=0 #12
+2026/07/17-16:27:59.180 f4a Compacting 4@0 + 1@1 files
+2026/07/17-16:27:59.182 f4a Generated table #16@0: 23 keys, 17236 bytes
+2026/07/17-16:27:59.182 f4a Compacted 4@0 + 1@1 files => 17236 bytes
+2026/07/17-16:27:59.184 f4a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/17-16:27:59.184 f4a Delete type=2 #11
+2026/07/17-16:27:59.184 f4a Delete type=2 #9
+2026/07/17-16:27:59.184 f4a Delete type=2 #13
+2026/07/17-16:27:59.184 f4a Delete type=2 #7
+2026/07/17-16:27:59.184 f4a Delete type=2 #15
+2026/07/17-16:35:59.174 f4a Level-0 table #18: started
+2026/07/17-16:35:59.178 f4a Level-0 table #18: 31513 bytes OK
+2026/07/17-16:35:59.180 f4a Delete type=0 #14
+2026/07/17-16:43:59.173 f4a Level-0 table #20: started
+2026/07/17-16:43:59.174 f4a Level-0 table #20: 33188 bytes OK
+2026/07/17-16:43:59.176 f4a Delete type=0 #17
+2026/07/17-16:51:59.173 f4a Level-0 table #22: started
+2026/07/17-16:51:59.177 f4a Level-0 table #22: 33050 bytes OK
+2026/07/17-16:51:59.179 f4a Delete type=0 #19
+2026/07/17-16:59:59.173 f4a Level-0 table #24: started
+2026/07/17-16:59:59.177 f4a Level-0 table #24: 34299 bytes OK
+2026/07/17-16:59:59.179 f4a Delete type=0 #21
+2026/07/17-16:59:59.179 f4a Compacting 4@0 + 1@1 files
+2026/07/17-16:59:59.181 f4a Generated table #25@0: 25 keys, 17814 bytes
+2026/07/17-16:59:59.181 f4a Compacted 4@0 + 1@1 files => 17814 bytes
+2026/07/17-16:59:59.183 f4a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/17-16:59:59.183 f4a Delete type=2 #20
+2026/07/17-16:59:59.183 f4a Delete type=2 #16
+2026/07/17-16:59:59.183 f4a Delete type=2 #24
+2026/07/17-16:59:59.183 f4a Delete type=2 #18
+2026/07/17-16:59:59.183 f4a Delete type=2 #22
+2026/07/17-17:07:59.173 f4a Level-0 table #27: started
+2026/07/17-17:07:59.177 f4a Level-0 table #27: 32412 bytes OK
+2026/07/17-17:07:59.179 f4a Delete type=0 #23
+2026/07/17-17:13:59.174 f4a Level-0 table #29: started
+2026/07/17-17:13:59.178 f4a Level-0 table #29: 33302 bytes OK
+2026/07/17-17:13:59.180 f4a Delete type=0 #26

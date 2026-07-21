@@ -1,0 +1,4 @@
+
+[Default Applications]
+application/x-extension-burp=install4j_1kpunc0-BurpSuite.desktop
+x-scheme-handler/burp=install4j_1kpunc0-BurpSuite.desktop

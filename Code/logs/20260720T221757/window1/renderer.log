@@ -1,0 +1,21 @@
+2026-07-20 22:17:58.590 [info] Started local extension host with pid 39626.
+2026-07-20 22:17:59.389 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-07-20 22:17:59.491 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-07-20 22:18:01.327 [info] [perf] Render performance baseline is 22ms
+2026-07-20 22:18:04.665 [info] Started local extension host with pid 41043.
+2026-07-20 22:18:05.343 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-07-20 22:18:05.556 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-07-20 22:18:07.324 [info] [perf] Render performance baseline is 22ms
+2026-07-20 22:18:10.343 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-07-20 22:18:37.693 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy
+2026-07-20 22:18:42.036 [error] [Extension Host] (node:41043) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-07-20 22:19:02.670 [info] ChatSessionStore: Workspace transition from e633d347b34b3e05434756ac7d3c9d55 to 6c6d5e64ee368fbc789e0511c093e40a
+2026-07-20 22:19:02.717 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Canceled
+2026-07-20 22:19:02.730 [info] ChatSessionStore: Found 1 files in old storage location
+2026-07-20 22:19:02.783 [info] ChatSessionStore: Copied 1 chat session files from file:///home/lucas/.config/Code/User/workspaceStorage/e633d347b34b3e05434756ac7d3c9d55/chatSessions to file:///home/lucas/.config/Code/User/workspaceStorage/6c6d5e64ee368fbc789e0511c093e40a/chatSessions (originals preserved at old location)
+2026-07-20 22:19:02.804 [info] Started local extension host with pid 63379.
+2026-07-20 22:19:03.217 [warning] [DefaultAccount] Attempt 2 to get sessions failed: Canceled
+2026-07-20 22:19:03.730 [warning] [DefaultAccount] Attempt 3 to get sessions failed: Canceled
+2026-07-20 22:19:03.731 [error] [DefaultAccount] Failed to get default account for provider: github Canceled
+2026-07-20 22:19:06.795 [warning] [DefaultAccount] Managed settings fetch returned non-success status 404; falling back to local-only policy

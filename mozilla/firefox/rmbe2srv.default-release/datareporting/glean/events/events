@@ -1,0 +1,13 @@
+{"timestamp":3385583,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1784166493526","can_load":"true","path_key":"clean","loadfail_reason":"N/A"}}
+{"timestamp":3385583,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","path_key":"clean","loadfail_reason":"N/A","glean_timestamp":"1784166493526"}}
+{"timestamp":3385584,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1784166493527","shutdown_ok":"false","shutdown_reason":"N/A"}}
+{"timestamp":3385996,"category":"jsonfile","name":"load_logins","extra":{"value":"error_notfounderror","glean_timestamp":"1784166493939"}}
+{"timestamp":3386094,"category":"nimbus_events","name":"startup_database_consistency","extra":{"glean_timestamp":"1784166494037","store_active_count":"36","total_db_count":"37","primary":"database","total_store_count":"37","db_active_count":"36","trigger":"startup"}}
+{"timestamp":3386124,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"error_notfounderror","glean_timestamp":"1784166494067"}}
+{"timestamp":3386144,"category":"doh","name":"state_rollback","extra":{"value":"null","glean_timestamp":"1784166494087"}}
+{"timestamp":3386385,"category":"normandy","name":"enroll_failed_nimbus_experiment","extra":{"reason":"feature-conflict","glean_timestamp":"1784166494328","value":"expand-vertical-tabs-callout-existing-profiles"}}
+{"timestamp":3386386,"category":"nimbus_events","name":"enroll_failed","extra":{"glean_timestamp":"1784166494328","experiment":"expand-vertical-tabs-callout-existing-profiles","reason":"feature-conflict"}}
+{"timestamp":3386476,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1784166494419"}}
+{"timestamp":3386459,"category":"extensions.data","name":"storage_local_error","extra":{"error_name":"OtherError","addon_id":"uBlock0@raymondhill.net","glean_timestamp":"1784166494429","method":"set"}}
+{"timestamp":3386460,"category":"extensions.data","name":"storage_local_error","extra":{"error_name":"OtherError","method":"set","glean_timestamp":"1784166494429","addon_id":"uBlock0@raymondhill.net"}}
+{"timestamp":3386533,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1784166494476"}}
