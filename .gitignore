@@ -1,0 +1,20 @@
+# Caches e Logs gerais
+*/*/Cache/
+*/*/CachedData/
+*/*/Code Cache/
+*/*/GPUCache/
+*/*/Session Storage/
+*/*/Shared Dictionary/
+*/*/Local Storage/
+*/*/logs/
+*.log
+
+# Discord (evita arquivos grandes como .node e caches)
+discord/0.*/modules/
+discord/Cache/
+discord/Local Storage/
+
+# Lixo de Editores e Sistemas
+.DS_Store
+Thumbs.db
+.cache/
