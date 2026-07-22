@@ -1,9 +1,0 @@
-2026-07-20 22:17:57.352 [info] StorageMainService: creating application shared storage
-2026-07-20 22:17:57.471 [info] [shared storage] Creating shared storage database at '/home/lucas/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
-2026-07-20 22:17:57.471 [info] [shared storage] Initializing fallback application storage (path: /home/lucas/.config/Code/User/globalStorage/state.vscdb)
-2026-07-20 22:17:57.483 [info] [shared storage] Fallback application storage initialized with 81 items
-2026-07-20 22:17:57.484 [info] update#setState disabled
-2026-07-20 22:17:57.484 [info] update#ctor - updates are disabled as there is no update URL
-2026-07-20 22:18:04.090 [info] Extension host with pid 39626 exited with code: 0, signal: unknown.
-2026-07-20 22:19:02.162 [info] Extension host with pid 41043 exited with code: 0, signal: unknown.
-2026-07-20 22:19:17.421 [info] Extension host with pid 63379 exited with code: 0, signal: unknown.

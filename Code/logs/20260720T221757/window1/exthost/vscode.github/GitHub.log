@@ -1,5 +1,0 @@
-2026-07-20 22:17:59.487 [info] Log level: Info
-2026-07-20 22:18:05.323 [info] Log level: Info
-2026-07-20 22:18:09.040 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2026-07-20 22:18:09.178 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Lucasjkofcc/Configs: Error: No GitHub authentication session available.
-2026-07-20 22:19:05.299 [info] Log level: Info

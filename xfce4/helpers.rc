@@ -1,1 +1,2 @@
-../../.dotfiles/xfce4/.config/xfce4/helpers.rc
+TerminalEmulator=kitty
+

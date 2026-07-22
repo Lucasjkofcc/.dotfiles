@@ -1,6 +1,0 @@
-2026-07-18 16:04:52.156 [info] Getting Manifest... fwz233.zeppos
-2026-07-18 16:04:52.307 [info] Installing extension: fwz233.zeppos {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucas/.vscode/extensions/extensions.json","path":"/home/lucas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.128.0","date":"2026-07-07T15:14:24-07:00"}}
-2026-07-18 16:04:58.872 [info] Extension signature verification result for fwz233.zeppos: Success. Internal Code: 0. Executed: true. Duration: 1183ms.
-2026-07-18 16:05:01.543 [info] Extracted extension to file:///home/lucas/.vscode/extensions/fwz233.zeppos-0.0.11: fwz233.zeppos
-2026-07-18 16:05:01.725 [info] Renamed to /home/lucas/.vscode/extensions/fwz233.zeppos-0.0.11
-2026-07-18 16:05:01.731 [info] Extension installed successfully: fwz233.zeppos vscode-userdata:/home/lucas/.vscode/extensions/extensions.json
