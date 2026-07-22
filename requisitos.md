@@ -1,5 +1,5 @@
 ttf-jetbrains-mono-nerd
 picom
-xfce
+xfce4
 fish
 rofi
