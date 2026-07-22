@@ -7,6 +7,6 @@ screenshot_dir=file:/home/lucas/Imagens
 action=2
 delay=0
 region=3
-show_mouse=1
+show_mouse=0
 show_border=1
 

@@ -54,8 +54,8 @@
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Super&gt;r" type="string" value="rofi -show drun"/>
-      <property name="Print" type="string" value="flameshot gui"/>
       <property name="&lt;Super&gt;a" type="string" value="librewolf"/>
+      <property name="Print" type="string" value="xfce4-screenshooter -r"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
