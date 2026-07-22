@@ -1,4 +1,3 @@
-#Dotfiles
 <p align="center">
   <img src="wall.png" alt="Arch Linux Rice" width="900">
 </p>
