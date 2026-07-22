@@ -3,3 +3,4 @@ picom
 xfce4
 fish
 rofi
+kitty
