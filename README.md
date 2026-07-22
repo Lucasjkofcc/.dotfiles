@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wall.png" alt="Arch Linux Rice" width="900">
+  <img src="resultado.png" alt="Arch Linux Rice" width="900">
 </p>
 
 <p align="center">
